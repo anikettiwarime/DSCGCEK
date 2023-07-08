@@ -1,0 +1,156 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Tejal Yawalkar",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGHulLSoYGdiA/profile-displayphoto-shrink_400_400/0/1636703490164?e=1675900800&v=beta&t=rzJihWackSggtCPhO2cWBV6N51c9vYVZpgYjYonxlLM",
+            "responsibility": "GDSC Lead",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/tejal-yawalkar-178442222/"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Dr. Raj Kulkarni",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGKu4yTH4cgnA/profile-displayphoto-shrink_400_400/0/1516238399821?e=1676505600&v=beta&t=4kMbAJrMdHdCL5iK8zdsaKXhPQpzxW4VrYKprCcSN4g",
+            "responsibility": "Faculty cordinator",
+            "social": {
+                "linkedin": "https://www.linkedin.com/in/dr-raj-kulkarni-b5651b/"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Aniket Tiwari",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEDkH-kkQmx9g/profile-displayphoto-shrink_400_400/0/1664051255180?e=1676505600&v=beta&t=wnfe82bTyXSG35iUXWM60dsO5fww8G1fQQQXjVl-S0U",
+            "responsibility": "Web Dev Head",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/anikettiwarime/"
+            }
+        },
+        {
+            "id": 4,
+            "name": "SHRIRANG KULKARNI",
+            "image": "https://media-exp1.licdn.com/dms/image/C5603AQG38Qb5sIT1RQ/profile-displayphoto-shrink_400_400/0/1637900433495?e=1675900800&v=beta&t=W9p0aeiSfl74NbBwEiOqsHpog2vcZwvsRTdFjVsI_Lk",
+            "responsibility": "Web Dev Co.Head",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/shrirang-kulkarni-207928144/"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Chaitrali Inamdar",
+            "image": "https://media-exp1.licdn.com/dms/image/C4E03AQHrdUUygUCU5A/profile-displayphoto-shrink_400_400/0/1649690420124?e=1675900800&v=beta&t=ub_CMJGHOuI5AdtpNftFXI123q4koELP66vN5AFLP9I",
+            "responsibility": "Data Science Lead",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/chaitrali-inamdar-335950234/"
+            }
+        },
+        {
+            "id": 6,
+            "name": "PRATHAMESH DESHMUKH",
+            "image": "https://media-exp1.licdn.com/dms/image/D4D03AQFZgL7s8txkUw/profile-displayphoto-shrink_400_400/0/1670473903166?e=1675900800&v=beta&t=M4zn_YvCatyTtFyQHq7tT8ikCU-oPCsKRwgzmhF1eLI",
+            "responsibility": "AI/ML Lead",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/prathamesh-deshmukh-a3962620a/"
+            }
+        },
+        {
+            "id": 7,
+            "name": "Sanika Patil",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQF2PNMTrEKIJw/profile-displayphoto-shrink_400_400/0/1663296093915?e=1675900800&v=beta&t=0eop0ghUbsndLsmzKyeRIedJDIJuYAl5wM5TApPUPfY",
+            "responsibility": "UI/UX Specialist",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/sanikapatil20/"
+            }
+        },
+        {
+            "id": 8,
+            "name": "Prathamesh Deshmane",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQHdlD-hlB1hEw/profile-displayphoto-shrink_400_400/0/1658831897998?e=1675900800&v=beta&t=9c9yVGvwPYCPY50sjR1XrAQhwX-jzoc_TKaLJeDVc9U",
+            "responsibility": "Publicity Head",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/prathameshdeshmane/"
+            }
+        },
+        {
+            "id": 9,
+            "name": "Shrutika Sonawane",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQHVhqBTegJlug/profile-displayphoto-shrink_400_400/0/1615472875215?e=1675900800&v=beta&t=gcnslBI7VbTCajbzvSyXiTU4vWpCMrtZLAoWJey9fXk",
+            "responsibility": "Content Lead",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/shrutika-sonawane-876236205/"
+            }
+        },
+        {
+            "id": 10,
+            "name": "Omkar Dhage",
+            "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFrKvqPa6tWHg/profile-displayphoto-shrink_400_400/0/1614316848319?e=1675900800&v=beta&t=wkfV_Cc4NCRYWiGEKQdcLPcdw3fubDEkVygpHemxEv0",
+            "responsibility": "Android Lead",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/omkar-dhage/"
+            }
+        },
+        {
+            "id": 11,
+            "name": "Shridhar Atram",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEwMJV_kP1V6w/profile-displayphoto-shrink_400_400/0/1655027545165?e=1675900800&v=beta&t=7Ehlt-v1cOZapA15SAvDU7VYy9ZbtnCWHC99z86dsQc",
+            "responsibility": "Flutter Lead",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/shridhar-atram-0a0408164/"
+            }
+        },
+        {
+            "id": 12,
+            "name": "Vivek Mote",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQG9qTipOGj7Fw/profile-displayphoto-shrink_400_400/0/1656346638983?e=1675900800&v=beta&t=SGJHD_cSJVrGqJQyGBexl4vQm4Co1U-ixXEfdqMhr_c",
+            "responsibility": "Flutter Co.Lead",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/vivek-mote-a8b308205/"
+            }
+        },
+        {
+            "id": 13,
+            "name": "Nishant Patil",
+            "image": "https://media-exp1.licdn.com/dms/image/D5603AQFIkpHLz1HARQ/profile-displayphoto-shrink_400_400/0/1669298812005?e=1675900800&v=beta&t=aqGXich4zFcPmQAe1JZfVXxn4p6zi6fd2F2hqa-GCe0",
+            "responsibility": "Cloud Specialist",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/nishantpatil219/"
+            }
+        },
+        {
+            "id": 14,
+            "name": "AKSHAY TUPE",
+            "image": "https://media-exp1.licdn.com/dms/image/C4E03AQF1bvYv_zKcSQ/profile-displayphoto-shrink_400_400/0/1616740677698?e=1675900800&v=beta&t=rQitNhrqD8oUEin8B3PmH7OhFLbgKzYwXV74PTTRWGs",
+            "responsibility": "Blockchain Specialist",
+            "social": {
+                "instagram": "",
+                "github": "",
+                "linkedin": "https://www.linkedin.com/in/akshay-tupe-186234208/"
+            }
+        }
+    ]
+}
